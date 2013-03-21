@@ -1,0 +1,7 @@
+return
+{
+	desc = "玩家点加牌时调用",
+	arg_list = {
+		{"baby_data", "baby_info", 0},			--给某个用户加牌的ID
+	}
+}

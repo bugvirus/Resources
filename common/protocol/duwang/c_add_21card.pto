@@ -1,0 +1,9 @@
+return
+{
+	desc = "客户端显示新加一张牌",
+	arg_list = {
+		{"uid", "number", 0},			--给某个用户加牌的ID
+		{"cardtype", "number"},		--牌的花色类型，1 黑桃 2 红桃 3 梅花 4 方块
+		{"card", "number"},			--牌的点数，从1~11
+	}
+}

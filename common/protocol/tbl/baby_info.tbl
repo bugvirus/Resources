@@ -1,0 +1,8 @@
+return "baby_info",
+{
+	qizhi = "number",--气质
+	wuxin = "string",--悟性
+	moyi = "byte", --墨意
+	naili = "word",--耐力
+	neili = "dword",--内力
+}
